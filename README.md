@@ -5,12 +5,5 @@
 ***ананас***
 ~~ананас~~
 <ins>ананас</ins>
-1. ааааааааааааааа
-2. ааааааааааааааа
-3. аааааааа    аааааа
->aaaaaaaaaaaaaa
->#aaaaaaaaaaaa
-+aaaaaaaaaaaaa
-*aaaaaaaaaaaa
-[]aaaaa
-[x]aaaaa
+1. аааа
+2. аааа
