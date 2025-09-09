@@ -9,3 +9,5 @@
 2. аааа
 
 [ПНИПУ](<https://pstu.ru/> "ПНИПУ")
+
+![img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVuxtXEzjWKAAQFaTprQBm6zpaNnu7Wm-A1A&s)
