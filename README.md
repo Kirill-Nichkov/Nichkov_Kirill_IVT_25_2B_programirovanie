@@ -11,3 +11,7 @@
 [ПНИПУ](<https://pstu.ru/> "ПНИПУ")
 
 ![img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVuxtXEzjWKAAQFaTprQBm6zpaNnu7Wm-A1A&s)
+
+|Название| Столбец 2 | Столбец 3 |
+|-|---|--|
+|aaa|sss|ddd|
