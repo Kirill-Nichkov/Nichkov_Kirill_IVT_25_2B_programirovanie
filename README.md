@@ -17,10 +17,10 @@
 |aaa|sss|ddd|
 
 '''
-#include <iostream> // Подключение библиотеки для ввода/вывода
+#include <iostream>
 
-int main() { // Основная функция, точка входа программы
-    std::cout << "Hello, World!" << std::endl; // Вывод текста на экран
-    return 0; // Возвращаем 0, указывая на успешное завершение программы
+int main()
+    std::cout << "Hello, World!" << std::endl;
+    return 0;
 }
 '''
