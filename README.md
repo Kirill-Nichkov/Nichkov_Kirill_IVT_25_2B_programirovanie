@@ -8,4 +8,4 @@
 1. аааа
 2. аааа
 
-[Сайт ПНИПУ]<https://pstu.ru/>
+[https://pstu.ru/](<https://pstu.ru/> "ПНИПУ")
