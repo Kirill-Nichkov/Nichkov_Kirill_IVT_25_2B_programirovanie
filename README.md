@@ -1,1 +1,3 @@
-# Nichkov_Kirill_IVT_25_2B_programirovanie
+I Nichkov Kirill
+
+Today is Tuesday
