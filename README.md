@@ -7,4 +7,5 @@
 <ins>ананас</ins>
 1. аааа
 2. аааа
-<https://pstu.ru/>
+
+[Сайт ПНИПУ]<https://pstu.ru/>
